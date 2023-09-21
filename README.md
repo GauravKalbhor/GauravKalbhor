@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="">
+<img align="center" width="100%" src="https://github.com/GauravKalbhor/GauravKalbhor/blob/main/web-development-banner.png">
 <h1 align="center">Hi 👋, I'm Gaurav Kalbhor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
